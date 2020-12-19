@@ -1,8 +1,8 @@
 # BarcodeScanner
 
-A simple Barcode Scanner application using python, opencv and pyzbar. For detailed explanation check out my [blog]()
+A simple Barcode Scanner application using python, opencv and pyzbar. For detailed explanation check out my [blog]().
 
-This was possible only due to the simple and clear explanation by Adrian Rosebrock's [blog](https://www.pyimagesearch.com/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar/)
+This was possible only due to the simple and clear explanation by Adrian Rosebrock's [blog](https://www.pyimagesearch.com/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar/).
 
 ## How to run?
 
